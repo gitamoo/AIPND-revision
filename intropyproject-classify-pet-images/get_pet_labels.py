@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/get_pet_labels_hints.py
 #                                                                             
-# PROGRAMMER: Sai Mounika Balla
-# DATE CREATED: 10/11/2024                                
+# PROGRAMMER: Rita Gitamo
+# DATE CREATED: 30/11/2024                                
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function get_pet_labels that creates the pet labels from the image's
